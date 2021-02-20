@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'GoogleSans-Bold';
+   font-display: swap;
+   src: url('GoogleSans-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'GoogleSans-Regular';
+   font-display: swap;
+   src: url('GoogleSans-Regular/font.ttf');
+}
